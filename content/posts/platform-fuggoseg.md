@@ -103,10 +103,15 @@ Ha lehetőséget biztosítanánk erre, akkor egy új verseny alakulna ki, hogy k
 akár reklámokkal, akár adományokból finanszírozva. Fontos, hogy változó üzletmodellel, ami nem az emberek globális megfigyelésére és "kapuőrzésre" épül. 
 
 **Javaslatok:**
+
 - Jobban támogatnunk kell a nyílt forráskódú szoftverek fejlesztését, akár kiemelt figyelemmel a közösségi médiás fejlesztésekre. Nem engedhetjük meg, hogy nem tudjuk, mit miért látunk egy közösségi oldalon. Amennyiben szeretnénk, akkor a saját laptopunkon is működhethessünk egy szervert amin keresztül láthatjuk a világ híreit, vagy akár publikálhatunk magunk is. Így nem zárhat ki minket egy központi platform, hiszen nem lesz központ amitől függünk.
+
 - A közösségi oldalak nyissák meg a platformjaikat szabványok betartásával és implamentálásával ([RSS](https://hu.wikipedia.org/wiki/RSS), [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub))
+
 - A közösségi oldalaknak kötelező legyen nyilvánosságra hozniuk a hírfolyam (feed) algoritmusuk beállításait, mint ahogy a szerencsejátékok nyerési esélyeit is publikálni kell. 
+
 - Teremtsenek lehetőséget a célzott reklámok kikapcsolására 
+
 - Adjanak lehetőséget arra, hogy az oldalukat Javascript futtatása nélkül is lehessen használni egy minimális funkcionalitás mellett
 
 Sajnos az EU következő Digitális szolgáltatások szabályázosáról szóló törvéncsomagjában ezek a javaslatok nem szerepelnek: [cikk](https://european-pirateparty.eu/pirates-new-digital-services-act-dsa-is-disappointing/)
