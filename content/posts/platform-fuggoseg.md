@@ -66,7 +66,7 @@ Pedig, mégha nem is áll hatalmában a probléma megoldása, a jó szabályozá
 # Magyar Kormányzati válasz
 
 A történtekre reagálva Varga Judit ismét [felszólalt a helyzet ellen](https://hvg.hu/itthon/20210118_varga_judit_facebook_tiltas), 
-de a megoldást csak és kizólag a szabályozásban látja.
+de a megoldást csak és kizárólag a szabályozásban látja.
 Korábban olyan ötletek is felröppentek kormányzati helyekről, hogy valahogy a moderálásra szeretnének nagyobb rálátást, akár az elbírálásba is beleszólnának.
 
 ## Mi a baj ezzel a megközelítéssel?
